@@ -1,0 +1,49 @@
+{
+    "projectInfo": [{
+        "projNo": "KA-1005-02",
+        "jobNo": 3536,
+        "CPMSStatus": "ACTIV",
+        "KDOTProgram": "POOL",
+        "length": 5.601,
+        "workType": "GRBRS",
+        "fedProjNo": "NHPP-A100(502)",
+        "DAIndex": "0880",
+        "plannedAC": "No",
+        "cityRural": "Rural",
+        "CSAgreement": "No",
+        "fedFunded": "Yes",
+        "district": 4,
+        "county": "11 : Cherokee",
+        "route": "U166",
+        "countySeat": "Columbus",
+        "description": "DELAYED: Highway improvements on US-166 in Cherokee Co",
+        "location": "US-166/US-400: from 0.9 miles north of the US-166/US-400 Junction, East and Southeast to the 0.5 miles northwest of the Kansas/Missouri State Line"
+    }
+],
+    "projectCost": [{
+        "projEstCost": "$63,342,624.76",
+        "projCostToDate": "$5,307,905.70",
+        "PEFedFunded": "Yes",
+        "RWFedFunded": "No",
+        "UTILFedFunded": "Yes",
+        "CEFedFunded": "Yes",
+        "CONSTFedFunded": "Yes",
+        "RWEstCost": "$4,550,000.00",
+        "RWCostToDate": "$1,575,496.39"
+    }
+],
+    "contactInfo": [{
+        "techName": "Marcus Eakes",
+        "techPhone": "+17852966940",
+        "techEmail": "Marcus.Eakes@ks.gov",
+        "roadSquadName": "Steve Rockers",
+        "roadSquadPhone": "+17852961004",
+        "roadSquadEmail": "Steve.Rockers@ks.gov",
+        "bridgeSquadName": "Chris Meyers",
+        "bridgeSquadPhone": "785-296-5559",
+        "bridgeSquadEmail": "Chris.Meyers@ks.gov",
+        "roadConsultant": "No Consultant",
+        "bridgeConsultant": "GEORGE BUTLER ASSOCIATES, INC."
+    }]
+    
+}
